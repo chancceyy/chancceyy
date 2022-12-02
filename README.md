@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chancceyy
+- 👀 I’m interested in science, coding and english
+- 🌱 I’m currently bulidng my skills in html and css
+- 📫 How to reach me:
+  - Discord: Chance#8629
